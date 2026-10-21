@@ -1,6 +1,6 @@
 # Duna Tech · Sistemas
 
-Apresentação dos sistemas da Duna Tech e do NTI (Núcleo de Tecnologia Interno): AGR Farma, Studio Senior, Lourenço PDV e o app Vem Comigo.
+Landing page da Duna Tech: serviços, projetos no ar (AGR Farma, Studio Senior, Lourenço PDV), o app Vem Comigo e contato por WhatsApp.
 
 **Acesse:** https://dev-washington.github.io/duna-tech/
 
